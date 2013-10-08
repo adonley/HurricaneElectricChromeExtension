@@ -1,0 +1,14 @@
+{
+  "name": "Hurricane Electric Quicklinks",
+  "manifest_version": 2,
+  "version": "1.0",
+  "description": "Hurricane Electric's Quicklinks",
+  "permissions": [
+    "tabs"
+  ],
+  "browser_action": {
+    "default_icon": "images/icon.png",
+    "default_title": "Hurricane Electric's Quicklinks",
+    "default_popup": "popup.html"
+  }
+}
