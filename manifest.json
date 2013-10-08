@@ -2,7 +2,7 @@
   "name": "Hurricane Electric Quicklinks",
   "manifest_version": 2,
   "version": "1.0",
-  "description": "Hurricane Electric's Quicklinks",
+  "description": "Quicklinks to all of Hurricane Electrics Management Systems",
   "homepage_url": "http://he.net",
   "permissions": [
     "tabs"
